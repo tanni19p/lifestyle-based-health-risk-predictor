@@ -1,4 +1,4 @@
-# Lifestyle Health Risk Predictor
+# Lifestyle-Based Health Risk Predictor
 
 A machine learning-based web application that predicts an individual’s health risk level (Low / Medium / High) based on lifestyle factors such as sleep, stress, screen time, diet, and exercise.
 
