@@ -2,8 +2,8 @@
 
 A machine learning-based web application that predicts an individual’s health risk level (Low / Medium / High) based on lifestyle factors such as sleep, stress, screen time, diet, and exercise.
 
-# live demo
-deployed link: (https://lifestyle-based-health-risk-predictor-omxehtiwsld3ed5dhkmsmx.streamlit.app/)
+# Live Demo
+deployed link: https://lifestyle-based-health-risk-predictor-omxehtiwsld3ed5dhkmsmx.streamlit.app/
 
 # Project Overview
 
